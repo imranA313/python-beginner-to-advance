@@ -1,2 +1,2 @@
 # python-based
-Here all projet are python releted. 
+Here all project are python releted. 

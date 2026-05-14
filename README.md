@@ -1,12 +1,12 @@
 # 🐍 Python — Beginner to Advance
 
-Apni Python learning journey ka complete record — basics se leke advanced concepts tak.
+Python learning journey complete record — basics to advanced concepts.
 
 ---
 
 ## 🎯 Lakshya (Goal)
 
-Python ko beginner se advance level tak seekhna, har topic ko hands-on practice ke saath samajhna.
+Python from beginner to advance level, every topic hands-on practice ke saath.
 
 ---
 
@@ -50,29 +50,11 @@ python-beginner-to-advance/
 ├── 08-modules/
 ├── 09-advanced/
 └── README.md
-```
 
----
-
-## 🛠️ Setup
-
-Python install karo aur koi bhi file run karo:
-
-```bash
-# Repo clone karo
-git clone https://github.com/TUMHARA-USERNAME/python-beginner-to-advance.git
-
-# Koi bhi file run karo
-python 03-functions/functions.py
-```
-
-**Requirements:** Python 3.10+
-
----
 
 ## 📈 Progress
 
-- **Shuru kiya:** May 2025
+- **Start from:** May 2025
 - **Topics completed:** 3 / 10
 - **Current topic:** Functions
 
@@ -80,8 +62,8 @@ python 03-functions/functions.py
 
 ## 🙋 About
 
-Main ek Python learner hoon jo beginner se advance tak ka safar track kar raha hoon.  
-Har commit = ek naya concept seekha! 💪
+I'm Python learner start from beginner to advance journey track.  
+Every commit = new concept I learn! 💪
 
 ---
 
